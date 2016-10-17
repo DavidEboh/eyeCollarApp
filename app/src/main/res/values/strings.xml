@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EyeCollar</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">username</string>
+    <string name="textview">TextView</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="first_name">First Name</string>
+    <string name="password">Password</string>
+</resources>
